@@ -1,2 +1,2 @@
-# HW5
+#Pymaceuticals
 This project analyzes the effectiveness of various drug regimens on reducing tumor volume in mice. By cleaning and merging datasets, then applying statistical and visual analysis, the study identifies Capomulin and Ramicane as the most effective treatments. Key metrics such as mean, median, variance, and standard error were calculated for each regimen, providing insight into the consistency and performance of the treatments. Visualizations like bar charts, box plots, and scatter plots helped reinforce findings, while correlation analysis revealed a strong relationship between mouse weight and tumor size under Capomulin, highlighting its potential as a promising cancer treatment.
